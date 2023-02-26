@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "landmarknstuff",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:mechazod/LandmarkNStuff.git",
+      "state" : {
+        "revision" : "9193019f9d847ce80db226506dae07387defcde8",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
