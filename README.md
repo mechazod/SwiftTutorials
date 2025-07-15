@@ -10,4 +10,7 @@
 https://developer.apple.com/tutorials/swiftui
 
 #### Creating and combining views - 40 mins
+- Tue Jul 15 22:19:15 2025 +0800
 
+#### Building list and navigation - 35 mins
+- Tue Jul 15 22:49:08 2025 +0800
