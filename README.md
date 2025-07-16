@@ -14,3 +14,6 @@ https://developer.apple.com/tutorials/swiftui
 
 #### Building list and navigation - 35 mins
 - Tue Jul 15 22:49:08 2025 +0800
+
+#### Handling user inputs
+- Wed Jul 16 23:06:51 2025 +0800
