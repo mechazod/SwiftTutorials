@@ -23,3 +23,6 @@ https://developer.apple.com/tutorials/swiftui
 
 #### Drawing paths and shapes
 - Mon Jul 21 21:31:59 2025 +0800
+
+#### Animation and transition
+- Mon Jul 21 21:47:11 2025 +0800
