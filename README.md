@@ -17,3 +17,9 @@ https://developer.apple.com/tutorials/swiftui
 
 #### Handling user inputs
 - Wed Jul 16 23:06:51 2025 +0800
+
+
+### Day 3 - Drawing and Shapes
+
+#### Drawing paths and shapes
+- Mon Jul 21 21:31:59 2025 +0800
